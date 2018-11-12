@@ -16,7 +16,7 @@ In this tutorial the following points are covered
 Screenshots
 
 <div style="float:left;">
-<img src="./Screenshots/tappybee-start.jpg" width="100">
-<img src="./Screenshots/tappybee-play.jpg" width="100">
-<img src="./Screenshots/tappybee-gameover.jpg" width="100">
+<img src="./Screenshots/tappybee-start.jpg" width="250">
+<img src="./Screenshots/tappybee-play.jpg" width="250">
+<img src="./Screenshots/tappybee-gameover.jpg" width="250">
 </div>
