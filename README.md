@@ -14,6 +14,7 @@ In this tutorial the following points are covered
 + Practicing Rotation, Using Transform, etc. 
 
 Screenshots
-<img src="./Screenshots/tappybee-start.jpg" width="500">
-<img src="./Screenshots/tappybee-play.jpg" width="500">
-<img src="./Screenshots/tappybee-gameover.jpg" width="500">
+
+<img src="./Screenshots/tappybee-start.jpg" width="100">
+<img src="./Screenshots/tappybee-play.jpg" width="100">
+<img src="./Screenshots/tappybee-gameover.jpg" width="100">
